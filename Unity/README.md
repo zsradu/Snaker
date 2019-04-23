@@ -1,1 +1,2 @@
-The Unity part, with code from Visual Studio C#
+# Snaker
+Game made with Unity+Visual Studio C# and Blender
